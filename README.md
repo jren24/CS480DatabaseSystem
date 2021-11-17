@@ -6,7 +6,6 @@
 # Database
 world_covid19_vaccination
 # Author(s)
-Jiaqi Yin;
 Jiangni Ren
 # Database description
 Most countries in the world are vaccinating against COVID-19. These countries have unique names, country abbreviations, and most use vaccine. Each vaccine has a name, a type (inactivated or mRNA vaccine...), R&D companies, protection rates. Each state has its name, the country where the state is located, and different population. In the state, there are a lot of hospital are performing the tasks. Each hospital has its own name, the state where it is located, the city where the hospital is located, and vaccined people. People who go to be vaccinated will have a unique number, and the hospital that she/he went to, ID, name, age, date of birth.
